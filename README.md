@@ -5,6 +5,8 @@
 This repo DOES include a .mp4 of the official "Never Gonna Give You Up" music video (source: https://www.youtube.com/watch?v=dQw4w9WgXcQ). If Rick Astley or his record label has a problem with this, I will remove the video from the repo and rewrite the instructions to include obtaining and zipping your own copy.
 
 ## Functionality
+The code has been modified to support loading the video from an EXE instead of having to decompress a .zip first
+Simply run the EXE and it'll play. The tricky part is making someone run that EXE...
 
 ## Building
 1. Install Python 3.9 or later
