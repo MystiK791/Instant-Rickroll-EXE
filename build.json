@@ -7,7 +7,7 @@
   },
   {
    "optionDest": "filenames",
-   "value": "C:/Users/techg/Desktop/Instant-Rickroll-Prototype-main - Copy/main.py"
+   "value": "./main.py"
   },
   {
    "optionDest": "onefile",
@@ -19,7 +19,7 @@
   },
   {
    "optionDest": "icon_file",
-   "value": "C:/Users/techg/Downloads/Appicns-Simplified-App-Appicns-Chrome.ico"
+   "value": ""
   },
   {
    "optionDest": "ascii",
@@ -75,11 +75,11 @@
   },
   {
    "optionDest": "datas",
-   "value": "C:/Users/techg/Desktop/Instant-Rickroll-Prototype-main - Copy/code/audio.mp3;."
+   "value": "./audio.mp3;."
   },
   {
    "optionDest": "datas",
-   "value": "C:/Users/techg/Desktop/Instant-Rickroll-Prototype-main - Copy/code/video.mp4;."
+   "value": "./video.mp4;."
   }
  ],
  "nonPyinstallerOptions": {
